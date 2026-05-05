@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7af8941ebf34d53605fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gazebo_maritime",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PublisherPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PublisherPlugin-2e351635e3912a5f1759.json",
+					"name" : "PublisherPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Surface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Surface-c069cadedd24aed34784.json",
+					"name" : "Surface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WaveVisual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WaveVisual-be6cb27d8254d33c65bd.json",
+					"name" : "WaveVisual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Waves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Waves-d75a221fc6c8caf885bc.json",
+					"name" : "Waves",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/omen/gazebo_maritime_ws/build/gazebo_maritime",
+		"source" : "/home/omen/gazebo_maritime_ws/src/gazebo_maritime"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

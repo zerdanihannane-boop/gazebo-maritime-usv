@@ -1,0 +1,3 @@
+--- MISSION : Point A vers B (140.0m) ---
+Objectif atteint (140m) !
+Bateau stoppé au point B.
