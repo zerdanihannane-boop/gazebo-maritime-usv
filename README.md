@@ -40,4 +40,4 @@ Le bateau peut se déplacer, s’arrêter et se stabiliser à l’aide des comma
 - Python
 
 ## Auteur
-Hanane
+ZERDANI Hanane
